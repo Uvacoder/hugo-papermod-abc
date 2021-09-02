@@ -1,5 +1,5 @@
 baseURL: "https://hugo-papermod-tags-v1.netlify.app"
-title: CsendesBlog
+title: LumbergsThoughts
 languageCode: en
 paginate: 5
 theme: PaperMod
@@ -52,13 +52,13 @@ outputs:
         - JSON # is necessary
 params:
     env: production
-    title: "22940dev Github blog"
+    title: "uvacoder Github blog"
     tagline: "GitHub  PaperMod"
     description: "Hugo papermod template."
-    author: 22940dev
-    GitHubUser: "22940dev"
-    LinkedInUser: "doc22940"
-    TwitterUser: "alec"
+    author: uvacoder
+    GitHubUser: "uvacoder"
+    LinkedInUser: "alecbcampbell"
+    TwitterUser: "alec447834"
     
     
     # author: ["Me", "You"] # multiple authors
@@ -104,11 +104,11 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/22940dev"
+          url: "https://github.com/uvacoder"
         - name: linkedin
-          url: "https://linkedin.com/doc22940"  
+          url: "https://linkedin.com/alecbcampbell"  
         - name: twitter
-          url: "https://twitter.com/alec"
+          url: "https://twitter.com/alec44378"
      
     
 
