@@ -94,7 +94,7 @@ params:
            - name: Tags
            url: tags
 
-        # imageUrl: '.IMG_1328.WEBP'
+        # imageUrl: '/IMG_1328.WEBP'
         # imageTitle: my image
        
     # home-info mode
