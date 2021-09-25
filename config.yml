@@ -1,4 +1,4 @@
-baseURL: "https://hugo-papermod-tags-v1.netlify.app"
+baseURL: "https://my-hugo-paper.netlify.app"
 title: LumbergsThoughts
 languageCode: en
 paginate: 5
