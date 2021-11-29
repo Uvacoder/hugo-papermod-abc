@@ -27,9 +27,6 @@ languages:
                 - name: Opensource
                   url: opensource/
                   weight: 5
-                - name: Categories
-                  url: categories/
-                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
